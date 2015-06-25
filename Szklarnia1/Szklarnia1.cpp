@@ -163,7 +163,7 @@ int zapis_do_bazy(int &buf, int id)
 	do
 	{
 		++i;
-	} while (i<2000000000);
+	} while (i<1000000000);
 
 		return 1;
 }
